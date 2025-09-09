@@ -4,6 +4,7 @@
     <color name="brown">#80433E</color>
     <color name="dark_grey">#656565</color>
     <color name="grey">#AFAFAF</color>
+    <color name="light_grey">#D9D9D9</color>
     <color name="lightbrown">#9D7875</color>
     <color name="mild_grey">#899295</color>
     <color name="white">#FFFFFFFF</color>
@@ -15,11 +16,13 @@
     <string name="doe">doe</string>
     <string name="don_t_have_an_account">Don\'t have an account?</string>
     <string name="e_mail">E-mail</string>
+    <string name="forgot_password">Forgot Password?</string>
     <string name="from_text">from</string>
     <string name="jacob_w">jacob_w</string>
     <string name="john">john</string>
     <string name="johndoe_gmail_com">johndoe@gmail.com</string>
     <string name="log_in">Log in</string>
+    <string name="or">OR</string>
     <string name="password">Password</string>
     <string name="sign_up">Sign Up</string>
     <string name="smd_text">SMD</string>

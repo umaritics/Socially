@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Socially" >
         <activity
+            android:name="com.example.socially.login2"
+            android:exported="false" />
+        <activity
             android:name="com.example.socially.login1"
             android:exported="false" />
         <activity

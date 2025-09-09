@@ -90,14 +90,17 @@
                 android:textStyle="bold"
                 android:gravity="right"
                 android:paddingEnd="20dp"/>
-             <Button
+             <com.google.android.material.button.MaterialButton
                  android:layout_width="match_parent"
                  android:layout_marginHorizontal="20dp"
                  android:layout_height="wrap_content"
                  android:padding="10dp"
                  android:text="@string/log_in"
-                 android:background="@drawable/round_brown_button"
-                 android:layout_marginTop="10dp"/>
+                 android:textColor="@color/white"
+                 android:backgroundTint="@color/brown"
+                 app:cornerRadius="5dp"
+                 android:layout_marginTop="10dp"
+                 />
 
         </LinearLayout>
         <LinearLayout
@@ -152,6 +155,7 @@
                 android:layout_gravity="center"
                 />
                 <TextView
+                    android:id="@+id/signup"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/sign_up"
