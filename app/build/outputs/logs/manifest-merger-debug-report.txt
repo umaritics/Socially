@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from U:\Socially\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from U:\Socially\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from U:\Socially\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from U:\Socially\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from U:\Socially\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from U:\Socially\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from U:\Socially\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from U:\Socially\app\src\main\AndroidManifest.xml:2:1-37:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\HP\.gradle\caches\8.13\transforms\eea1e5f6cf6c64ff3ab040e0664b7c98\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\HP\.gradle\caches\8.13\transforms\d0d5980f42cc319ec522826ee5fd6eca\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\HP\.gradle\caches\8.13\transforms\0ecda393d6fc457efc39bbe481025acc\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
@@ -58,8 +58,8 @@ MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HP\.gradle\caches\8.13
 	xmlns:android
 		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from U:\Socially\app\src\main\AndroidManifest.xml:5:5-32:19
-INJECTED from U:\Socially\app\src\main\AndroidManifest.xml:5:5-32:19
+ADDED from U:\Socially\app\src\main\AndroidManifest.xml:5:5-35:19
+INJECTED from U:\Socially\app\src\main\AndroidManifest.xml:5:5-35:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\HP\.gradle\caches\8.13\transforms\eea1e5f6cf6c64ff3ab040e0664b7c98\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\HP\.gradle\caches\8.13\transforms\eea1e5f6cf6c64ff3ab040e0664b7c98\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\HP\.gradle\caches\8.13\transforms\d0d5980f42cc319ec522826ee5fd6eca\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
@@ -98,40 +98,46 @@ MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HP\.gradle\caches\8.13
 		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:13:9-46
 	android:dataExtractionRules
 		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.socially.login2
+activity#com.example.socially.main_page
 ADDED from U:\Socially\app\src\main\AndroidManifest.xml:14:9-16:40
 	android:exported
 		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:15:13-35
-activity#com.example.socially.login1
+		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:15:13-38
+activity#com.example.socially.login2
 ADDED from U:\Socially\app\src\main\AndroidManifest.xml:17:9-19:40
 	android:exported
 		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
 		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:18:13-35
-activity#com.example.socially.signup
+activity#com.example.socially.login1
 ADDED from U:\Socially\app\src\main\AndroidManifest.xml:20:9-22:40
 	android:exported
 		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:22:13-37
 	android:name
 		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:21:13-35
-activity#com.example.socially.MainActivity
-ADDED from U:\Socially\app\src\main\AndroidManifest.xml:23:9-31:20
+activity#com.example.socially.signup
+ADDED from U:\Socially\app\src\main\AndroidManifest.xml:23:9-25:40
 	android:exported
-		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:25:13-36
+		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:24:13-41
+		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:24:13-35
+activity#com.example.socially.MainActivity
+ADDED from U:\Socially\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:exported
+		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:27:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from U:\Socially\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from U:\Socially\app\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from U:\Socially\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from U:\Socially\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from U:\Socially\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from U:\Socially\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from U:\Socially\app\src\main\AndroidManifest.xml:32:27-74
 uses-sdk
 INJECTED from U:\Socially\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from U:\Socially\app\src\main\AndroidManifest.xml
