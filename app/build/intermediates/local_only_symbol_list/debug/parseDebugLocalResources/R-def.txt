@@ -9,7 +9,10 @@ color lightbrown
 color mild_grey
 color pink
 color white
+drawable addchat
+drawable back
 drawable back_arrow
+drawable camera_filled
 drawable camera_icon
 drawable camera_main
 drawable chevron_left
@@ -32,12 +35,14 @@ drawable options
 drawable oval
 drawable pagination
 drawable pfp
+drawable picture
 drawable rectangle
 drawable reels
 drawable round_brown_button
 drawable round_button
 drawable save
 drawable search
+drawable searchbar
 drawable small_oval
 drawable socially_logo
 font montserrat
@@ -58,6 +63,8 @@ font montserrat_semibold
 font montserrat_semibolditalic
 font montserrat_thin
 font montserrat_thinitalic
+id back
+id chats_button
 id create
 id from_text
 id login_button
@@ -73,6 +80,7 @@ id profile_image6
 id profile_image_post
 id signup
 id socially_text
+layout activity_chats
 layout activity_login1
 layout activity_login2
 layout activity_main
@@ -84,6 +92,7 @@ mipmap ic_launcher_round
 string _20_05_2005
 string and
 string app_name
+string camera
 string craig_love
 string create_an_account
 string create_an_account_and_sign_up
@@ -93,6 +102,7 @@ string don_t_have_an_account
 string e_mail
 string forgot_password
 string from_text
+string have_a_nice_day_bro
 string jacob_w
 string john
 string johndoe_gmail_com
@@ -102,6 +112,7 @@ string karennne
 string kieron_d
 string liked_by
 string log_in
+string now
 string or
 string password
 string sign_up

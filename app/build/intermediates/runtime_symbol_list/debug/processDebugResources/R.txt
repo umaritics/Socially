@@ -3008,8 +3008,10 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f070074
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f070075
 int drawable abc_textfield_search_material 0x7f070076
 int drawable abc_vector_test 0x7f070077
+int drawable addchat 0x7f070105
 int drawable avd_hide_password 0x7f070078
 int drawable avd_show_password 0x7f070079
+int drawable back 0x7f070106
 int drawable back_arrow 0x7f07007a
 int drawable btn_checkbox_checked_mtrl 0x7f07007b
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f07007c
@@ -3019,6 +3021,7 @@ int drawable btn_radio_off_mtrl 0x7f07007f
 int drawable btn_radio_off_to_on_mtrl_animation 0x7f070080
 int drawable btn_radio_on_mtrl 0x7f070081
 int drawable btn_radio_on_to_off_mtrl_animation 0x7f070082
+int drawable camera_filled 0x7f070107
 int drawable camera_icon 0x7f070083
 int drawable camera_main 0x7f070084
 int drawable chevron_left 0x7f070085
@@ -3137,12 +3140,14 @@ int drawable options 0x7f0700fc
 int drawable oval 0x7f0700fd
 int drawable pagination 0x7f070102
 int drawable pfp 0x7f0700ec
+int drawable picture 0x7f070108
 int drawable rectangle 0x7f0700fe
 int drawable reels 0x7f0700ed
 int drawable round_brown_button 0x7f0700ee
 int drawable round_button 0x7f0700ef
 int drawable save 0x7f070103
 int drawable search 0x7f0700f0
+int drawable searchbar 0x7f070109
 int drawable small_oval 0x7f070104
 int drawable socially_logo 0x7f0700f2
 int drawable test_level_drawable 0x7f0700f3
@@ -3255,6 +3260,7 @@ int id autoComplete 0x7f090055
 int id autoCompleteToEnd 0x7f090056
 int id autoCompleteToStart 0x7f090057
 int id axisRelative 0x7f090058
+int id back 0x7f09020c
 int id barrier 0x7f090059
 int id baseline 0x7f09005a
 int id beginOnFirstDraw 0x7f09005b
@@ -3280,6 +3286,7 @@ int id center_vertical 0x7f09006e
 int id chain 0x7f09006f
 int id chain2 0x7f090070
 int id chains 0x7f090071
+int id chats_button 0x7f09020d
 int id checkbox 0x7f090072
 int id checked 0x7f090073
 int id chronometer 0x7f090074
@@ -3803,6 +3810,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0c0018
 int layout abc_search_view 0x7f0c0019
 int layout abc_select_dialog_material 0x7f0c001a
 int layout abc_tooltip 0x7f0c001b
+int layout activity_chats 0x7f0c0070
 int layout activity_login1 0x7f0c001c
 int layout activity_login2 0x7f0c001d
 int layout activity_main 0x7f0c001e
@@ -3936,6 +3944,7 @@ int string call_notification_hang_up_action 0x7f100028
 int string call_notification_incoming_text 0x7f100029
 int string call_notification_ongoing_text 0x7f10002a
 int string call_notification_screening_text 0x7f10002b
+int string camera 0x7f1000c8
 int string character_counter_content_description 0x7f10002c
 int string character_counter_overflowed_content_description 0x7f10002d
 int string character_counter_pattern 0x7f10002e
@@ -3954,6 +3963,7 @@ int string fab_transformation_scrim_behavior 0x7f100039
 int string fab_transformation_sheet_behavior 0x7f10003a
 int string forgot_password 0x7f10003b
 int string from_text 0x7f10003c
+int string have_a_nice_day_bro 0x7f1000c9
 int string hide_bottom_view_on_scroll_behavior 0x7f10003d
 int string icon_content_description 0x7f10003e
 int string item_view_role_description 0x7f10003f
@@ -4066,6 +4076,7 @@ int string mtrl_switch_track_decoration_path 0x7f1000a4
 int string mtrl_switch_track_path 0x7f1000a5
 int string mtrl_timepicker_cancel 0x7f1000a6
 int string mtrl_timepicker_confirm 0x7f1000a7
+int string now 0x7f1000ca
 int string or 0x7f1000a8
 int string password 0x7f1000a9
 int string password_toggle_content_description 0x7f1000aa

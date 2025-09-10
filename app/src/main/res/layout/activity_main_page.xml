@@ -59,6 +59,7 @@
                     />
 
                 <ImageView
+                    android:id="@+id/chats_button"
                     android:layout_width="20dp"
                     android:layout_height="20dp"
                     android:background="@drawable/messanger"
