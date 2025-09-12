@@ -298,8 +298,8 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="next" />
-                            <entry key="sourceFile" value="U:\Socially\app\src\main\res\drawable\Next.svg" />
+                            <entry key="outputName" value="search_bold" />
+                            <entry key="sourceFile" value="U:\SVGs\search_bold.svg" />
                           </map>
                         </option>
                       </PersistentState>

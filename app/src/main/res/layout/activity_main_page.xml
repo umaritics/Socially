@@ -29,9 +29,9 @@
                >
 
                 <ImageView
-                    android:layout_width="20dp"
-                    android:layout_height="20dp"
-                    android:background="@drawable/camera_main"
+                    android:layout_width="24dp"
+                    android:layout_height="22dp"
+                    android:background="@drawable/camera"
                     android:layout_marginTop="25dp"
                     android:layout_marginStart="10dp"
                     android:backgroundTint="@color/brown"
@@ -50,9 +50,9 @@
                     android:letterSpacing="-0.03"
                     android:gravity="center"/>
                 <ImageView
-                    android:layout_width="20dp"
-                    android:layout_height="20dp"
-                    android:background="@drawable/like"
+                    android:layout_width="24dp"
+                    android:layout_height="26dp"
+                    android:background="@drawable/igtv"
                     android:layout_marginTop="25dp"
                     android:layout_marginStart="10dp"
                     android:backgroundTint="@color/brown"
@@ -60,7 +60,7 @@
 
                 <ImageView
                     android:id="@+id/chats_button"
-                    android:layout_width="20dp"
+                    android:layout_width="23dp"
                     android:layout_height="20dp"
                     android:background="@drawable/messanger"
                     android:layout_marginTop="25dp"
@@ -330,8 +330,8 @@
                         android:textSize="14sp"
                         />
                         <ImageView
-                            android:layout_width="12dp"
-                            android:layout_height="12dp"
+                            android:layout_width="10dp"
+                            android:layout_height="10dp"
                             android:layout_marginStart="5dp"
                             android:background="@drawable/official_icon"
                             android:backgroundTint="@color/brown"
@@ -346,14 +346,14 @@
                             android:textStyle="bold"
                             />
                 </LinearLayout>
+
                 <ImageView
                     android:layout_width="14dp"
                     android:layout_height="3dp"
                     android:layout_gravity="center"
                     android:layout_marginStart="180dp"
                     android:background="@drawable/options"
-                    android:backgroundTint="@color/brown"
-                    />
+                    android:backgroundTint="@color/brown" />
             </LinearLayout>
             <View
                 android:layout_width="match_parent"
@@ -411,8 +411,8 @@
                     android:layout_marginHorizontal="5dp"/>
 
                 <ImageView
-                    android:layout_width="22dp"
-                    android:layout_height="23dp"
+                    android:layout_width="23dp"
+                    android:layout_height="20dp"
                     android:background="@drawable/messanger"
                     android:layout_marginVertical="10dp"
                     android:layout_marginHorizontal="5dp"/>
@@ -439,7 +439,6 @@
                 <ImageView
                     android:layout_width="17dp"
                     android:layout_height="17dp"
-                    android:background="@drawable/small_oval"
                     android:layout_marginStart="10dp"/>
                 <TextView
                     android:layout_width="wrap_content"
@@ -514,35 +513,36 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:layout_width="20dp"
-                android:layout_height="20dp"
+                android:layout_width="22dp"
+                android:layout_height="24dp"
                 android:layout_gravity="center"
                 android:layout_marginHorizontal="26dp"
                 android:background="@drawable/home"
                 android:backgroundTint="@color/brown"/>
 
             <ImageView
-                android:layout_width="20dp"
-                android:layout_height="20dp"
+                android:id="@+id/search_button"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_gravity="center"
+                android:layout_marginHorizontal="26dp"
+                android:background="@drawable/search"
+                android:backgroundTint="@color/brown"/>
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
                 android:layout_gravity="center"
                 android:layout_marginHorizontal="26dp"
                 android:background="@drawable/create"
                 android:backgroundTint="@color/brown"/>
 
             <ImageView
-                android:layout_width="20dp"
-                android:layout_height="20dp"
+                android:layout_width="24dp"
+                android:layout_height="21dp"
                 android:layout_gravity="center"
                 android:layout_marginHorizontal="26dp"
-                android:background="@drawable/reels"
-                android:backgroundTint="@color/brown"/>
-
-            <ImageView
-                android:layout_width="20dp"
-                android:layout_height="20dp"
-                android:layout_gravity="center"
-                android:layout_marginHorizontal="26dp"
-                android:background="@drawable/search"
+                android:background="@drawable/like"
                 android:backgroundTint="@color/brown"/>
 
             <de.hdodenhof.circleimageview.CircleImageView
@@ -551,14 +551,14 @@
                 android:layout_height="20dp"
                 android:layout_gravity="center"
                 android:layout_marginHorizontal="26dp"
-                android:src="@drawable/dp"
+                android:background="@drawable/dp"
 
 
 
                 />
 
-            
-            
+
+
         </LinearLayout>
     </LinearLayout>
 

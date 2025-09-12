@@ -2103,6 +2103,7 @@ color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
+color offwhite
 color pink
 color primary_dark_material_dark
 color primary_dark_material_light
@@ -3014,6 +3015,7 @@ drawable avd_hide_password
 drawable avd_show_password
 drawable back
 drawable back_arrow
+drawable back_rectangle
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -3022,9 +3024,9 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable camera
 drawable camera_filled
 drawable camera_icon
-drawable camera_main
 drawable chevron_left
 drawable comment
 drawable create
@@ -3034,7 +3036,9 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable dp
+drawable gallery_icon
 drawable home
+drawable home_light
 drawable ic_arrow_back_black_24
 drawable ic_call_answer
 drawable ic_call_answer_low
@@ -3055,6 +3059,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
+drawable igtv
 drawable indeterminate_static
 drawable inner_oval
 drawable inner_oval1
@@ -3062,7 +3067,7 @@ drawable inner_oval2
 drawable inner_oval3
 drawable inner_oval4
 drawable like
-drawable like_main
+drawable live
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle
@@ -3142,14 +3147,25 @@ drawable oval
 drawable pagination
 drawable pfp
 drawable picture
+drawable post1
+drawable post10
+drawable post11
+drawable post2
+drawable post3
+drawable post4
+drawable post5
+drawable post6
+drawable post7
+drawable post8
+drawable post9
 drawable rectangle
-drawable reels
 drawable round_brown_button
 drawable round_button
 drawable save
 drawable search
+drawable search_bold
 drawable searchbar
-drawable small_oval
+drawable shop
 drawable socially_logo
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -3270,6 +3286,7 @@ id below
 id bestChoice
 id blocking
 id bottom
+id bottom_bar
 id bounce
 id bounceBoth
 id bounceEnd
@@ -3392,6 +3409,7 @@ id hide_ime_id
 id hideable
 id home
 id homeAsUp
+id home_button
 id honorRequest
 id horizontal
 id horizontal_only
@@ -3535,6 +3553,8 @@ id peekHeight
 id percent
 id pin
 id position
+id post1
+id post12
 id postLayout
 id pressed
 id profile_image
@@ -3816,6 +3836,7 @@ layout activity_login1
 layout activity_login2
 layout activity_main
 layout activity_main_page
+layout activity_posts
 layout activity_signup
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -4085,10 +4106,12 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string search
 string search_menu_title
 string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description
 string searchview_navigation_content_description
+string shop
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string sign_up

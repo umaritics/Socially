@@ -36,4 +36,10 @@
     <string name="now">• now</string>
     <string name="have_a_nice_day_bro">Have a nice day, bro!</string>
     <string name="camera">Camera</string>
+    <string name="shop">Shop</string>
+    <string name="search">Search</string>
+    <string name="style">Style</string>
+    <string name="sports">Sports</string>
+    <string name="auto">Auto</string>
+    <string name="music">Music</string>
 </resources>

@@ -152,13 +152,15 @@
             android:text="@string/e_mail"
             android:textColor="@color/white"
             android:textSize="18sp"
-            android:fontFamily="@font/montserrat_medium"/>
+            android:fontFamily="@font/montserrat_medium"
+                />
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@color/white"
                 android:textColorHint="#80ffffff"
-                android:hint="@string/johndoe_gmail_com"/>
+                android:hint="@string/johndoe_gmail_com"
+                />
             <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -171,45 +173,24 @@
                 android:layout_height="wrap_content"
                 app:passwordToggleEnabled="true"
                 app:passwordToggleTint="#80ffffff"
-                app:hintTextColor="#80ffffff"
-                app:boxStrokeColor="#ffffff"
-               >
+                app:hintTextColor="@color/dark_grey"
+                app:boxBackgroundMode="filled"
+                app:boxBackgroundColor="@color/brown"
+                app:boxStrokeColor="@color/light_grey"
 
-            <com.google.android.material.textfield.TextInputEditText
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="@color/white"
-                android:textColorHint="#80ffffff"
-                android:inputType="textPassword"
-                />
+                >
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:textColor="@color/white"
+                    android:textColorHint="#80ffffff"
+                    android:inputType="textPassword"
+                    />
             </com.google.android.material.textfield.TextInputLayout>
 
 
 
-<!--        <Button-->
-<!--                android:layout_width="wrap_content"-->
-<!--                android:layout_height="wrap_content"-->
-
-
-<!--                android:paddingHorizontal="50dp"-->
-<!--                android:paddingVertical="20dp"-->
-<!--                android:layout_marginTop="10dp"-->
-<!--                android:textColor="#000000"-->
-<!--                android:text="@string/create_an_account"-->
-
-<!--                />-->
-<!--            <com.google.android.material.button.MaterialButton-->
-<!--                android:layout_width="wrap_content"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:backgroundTint="#80ffffff"-->
-<!--                android:cornerRadius="5dp"-->
-<!--                android:paddingHorizontal="50dp"-->
-<!--                android:paddingVertical="20dp"-->
-<!--                android:layout_marginTop="10dp"-->
-<!--                android:textColor="#000000"-->
-<!--                android:text="@string/create_an_account"-->
-
-<!--                />-->
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/create"
                 android:layout_width="match_parent"
