@@ -3036,6 +3036,7 @@ int drawable design_password_eye 0x7f07008f
 int drawable design_snackbar_background 0x7f070090
 int drawable dp 0x7f070115
 int drawable gallery_icon 0x7f07010c
+int drawable hash 0x7f070118
 int drawable home 0x7f070091
 int drawable home_light 0x7f070116
 int drawable ic_arrow_back_black_24 0x7f070092
@@ -3065,6 +3066,7 @@ int drawable inner_oval1 0x7f0700a9
 int drawable inner_oval2 0x7f0700aa
 int drawable inner_oval3 0x7f0700ab
 int drawable inner_oval4 0x7f0700ac
+int drawable is_pic 0x7f070119
 int drawable like 0x7f0700ad
 int drawable live 0x7f0700ae
 int drawable m3_avd_hide_password 0x7f0700af
@@ -3836,6 +3838,7 @@ int layout activity_login2 0x7f0c001e
 int layout activity_main 0x7f0c001f
 int layout activity_main_page 0x7f0c0020
 int layout activity_posts 0x7f0c0021
+int layout activity_search 0x7f0c0072
 int layout activity_signup 0x7f0c0022
 int layout custom_dialog 0x7f0c0023
 int layout design_bottom_navigation_item 0x7f0c0024
@@ -3920,7 +3923,10 @@ int mipmap ic_launcher 0x7f0e0000
 int mipmap ic_launcher_foreground 0x7f0e0001
 int mipmap ic_launcher_round 0x7f0e0002
 int plurals mtrl_badge_content_description 0x7f0f0000
+int string _1000_post 0x7f1000d3
+int string _100_post 0x7f1000d4
 int string _20_05_2005 0x7f100000
+int string _500_post 0x7f1000d5
 int string abc_action_bar_home_description 0x7f100001
 int string abc_action_bar_up_description 0x7f100002
 int string abc_action_menu_overflow_description 0x7f100003
@@ -3952,6 +3958,7 @@ int string and 0x7f10001c
 int string androidx_startup 0x7f10001d
 int string app_name 0x7f10001e
 int string appbar_scrolling_view_behavior 0x7f10001f
+int string auto 0x7f1000cd
 int string bottom_sheet_behavior 0x7f100020
 int string bottomsheet_action_collapse 0x7f100021
 int string bottomsheet_action_expand 0x7f100022
@@ -3969,6 +3976,7 @@ int string camera 0x7f10002d
 int string character_counter_content_description 0x7f10002e
 int string character_counter_overflowed_content_description 0x7f10002f
 int string character_counter_pattern 0x7f100030
+int string clear 0x7f1000ce
 int string clear_text_end_icon_content_description 0x7f100031
 int string craig_love 0x7f100032
 int string create_an_account 0x7f100033
@@ -3984,9 +3992,16 @@ int string fab_transformation_scrim_behavior 0x7f10003c
 int string fab_transformation_sheet_behavior 0x7f10003d
 int string forgot_password 0x7f10003e
 int string from_text 0x7f10003f
+int string hash_internshala 0x7f1000d6
 int string have_a_nice_day_bro 0x7f100040
 int string hide_bottom_view_on_scroll_behavior 0x7f100041
 int string icon_content_description 0x7f100042
+int string internshala 0x7f1000cf
+int string internshala_b_610_untech_business_zone 0x7f1000d7
+int string internshala_cap 0x7f1000d8
+int string internshala_nomoretheory_challenge 0x7f1000d9
+int string internshalaincampus 0x7f1000da
+int string internshalastudentpartner 0x7f1000db
 int string item_view_role_description 0x7f100043
 int string jacob_w 0x7f100044
 int string john 0x7f100045
@@ -4097,6 +4112,7 @@ int string mtrl_switch_track_decoration_path 0x7f1000ad
 int string mtrl_switch_track_path 0x7f1000ae
 int string mtrl_timepicker_cancel 0x7f1000af
 int string mtrl_timepicker_confirm 0x7f1000b0
+int string music 0x7f1000d0
 int string now 0x7f1000b1
 int string or 0x7f1000b2
 int string password 0x7f1000b3
@@ -4116,7 +4132,9 @@ int string side_sheet_behavior 0x7f1000bf
 int string sign_up 0x7f1000c0
 int string smd_text 0x7f1000c1
 int string socially_text 0x7f1000c2
+int string sports 0x7f1000d1
 int string status_bar_notification_info_overflow 0x7f1000c3
+int string style 0x7f1000d2
 int string switch_accounts 0x7f1000c4
 int string tokyo_japan 0x7f1000c5
 int string user123 0x7f1000c6

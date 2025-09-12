@@ -10,10 +10,15 @@
     <color name="offwhite">#D7D7D7</color>
     <color name="pink">#E91E63</color>
     <color name="white">#FFFFFFFF</color>
+    <string name="_1000_post">1000+ post</string>
+    <string name="_100_post">100+ post</string>
     <string name="_20_05_2005">20-05-2005</string>
+    <string name="_500_post">500+ post</string>
     <string name="and">and</string>
     <string name="app_name">Socially</string>
+    <string name="auto">Auto</string>
     <string name="camera">Camera</string>
+    <string name="clear">Clear</string>
     <string name="craig_love">craig_love</string>
     <string name="create_an_account">Create an Account</string>
     <string name="create_an_account_and_sign_up">Create an Account and Sign Up</string>
@@ -23,7 +28,14 @@
     <string name="e_mail">E-mail</string>
     <string name="forgot_password">Forgot Password?</string>
     <string name="from_text">from</string>
+    <string name="hash_internshala">#internshala</string>
     <string name="have_a_nice_day_bro">Have a nice day, bro!</string>
+    <string name="internshala">internshala</string>
+    <string name="internshala_b_610_untech_business_zone">Internshala, B-610, Untech Business Zone,...</string>
+    <string name="internshala_cap">Internshala</string>
+    <string name="internshala_nomoretheory_challenge">#internshala_nomoretheory_challenge</string>
+    <string name="internshalaincampus">internshalaincampus</string>
+    <string name="internshalastudentpartner">internshalastudentpartner</string>
     <string name="jacob_w">jacob_w</string>
     <string name="john">john</string>
     <string name="johndoe_gmail_com">johndoe@gmail.com</string>
@@ -33,6 +45,7 @@
     <string name="kieron_d">kieron_d</string>
     <string name="liked_by">Liked by</string>
     <string name="log_in">Log in</string>
+    <string name="music">Music</string>
     <string name="now">• now</string>
     <string name="or">OR</string>
     <string name="password">Password</string>
@@ -41,6 +54,8 @@
     <string name="sign_up">Sign Up</string>
     <string name="smd_text">SMD</string>
     <string name="socially_text">Socially</string>
+    <string name="sports">Sports</string>
+    <string name="style">Style</string>
     <string name="switch_accounts">Switch Accounts</string>
     <string name="tokyo_japan">Tokyo, Japan</string>
     <string name="user123">user123</string>

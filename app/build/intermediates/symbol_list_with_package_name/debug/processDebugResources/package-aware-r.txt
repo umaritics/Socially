@@ -3037,6 +3037,7 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable dp
 drawable gallery_icon
+drawable hash
 drawable home
 drawable home_light
 drawable ic_arrow_back_black_24
@@ -3066,6 +3067,7 @@ drawable inner_oval1
 drawable inner_oval2
 drawable inner_oval3
 drawable inner_oval4
+drawable is_pic
 drawable like
 drawable live
 drawable m3_avd_hide_password
@@ -3837,6 +3839,7 @@ layout activity_login2
 layout activity_main
 layout activity_main_page
 layout activity_posts
+layout activity_search
 layout activity_signup
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3921,7 +3924,10 @@ mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+string _1000_post
+string _100_post
 string _20_05_2005
+string _500_post
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -3953,6 +3959,7 @@ string and
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
+string auto
 string bottom_sheet_behavior
 string bottomsheet_action_collapse
 string bottomsheet_action_expand
@@ -3970,6 +3977,7 @@ string camera
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
+string clear
 string clear_text_end_icon_content_description
 string craig_love
 string create_an_account
@@ -3985,9 +3993,16 @@ string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string forgot_password
 string from_text
+string hash_internshala
 string have_a_nice_day_bro
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
+string internshala
+string internshala_b_610_untech_business_zone
+string internshala_cap
+string internshala_nomoretheory_challenge
+string internshalaincampus
+string internshalastudentpartner
 string item_view_role_description
 string jacob_w
 string john
@@ -4098,6 +4113,7 @@ string mtrl_switch_track_decoration_path
 string mtrl_switch_track_path
 string mtrl_timepicker_cancel
 string mtrl_timepicker_confirm
+string music
 string now
 string or
 string password
@@ -4117,7 +4133,9 @@ string side_sheet_behavior
 string sign_up
 string smd_text
 string socially_text
+string sports
 string status_bar_notification_info_overflow
+string style
 string switch_accounts
 string tokyo_japan
 string user123

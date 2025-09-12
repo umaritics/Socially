@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_search)
 
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
@@ -21,10 +21,10 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        Handler(Looper.getMainLooper()).postDelayed({
-            // Start your app main activity here
-            startActivity(android.content.Intent(this, signup::class.java))
-            finish() // Call finish() to close the splash screen activity
-        }, 2000)
+//        Handler(Looper.getMainLooper()).postDelayed({
+//            // Start your app main activity here
+//            startActivity(android.content.Intent(this, signup::class.java))
+//            finish() // Call finish() to close the splash screen activity
+//        }, 2000)
     }
 }
