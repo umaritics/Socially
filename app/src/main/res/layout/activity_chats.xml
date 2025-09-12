@@ -27,18 +27,27 @@
                 android:backgroundTint="@color/brown" />
 
             <TextView
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
+                android:paddingLeft="120dp"
                 android:text="@string/jacob_w"
                 android:textColor="@color/brown"
                 android:textSize="20sp"
                 android:textStyle="bold"
-                android:gravity="center"/>
+                android:gravity="center"
+                />
+            <ImageView
+                android:layout_width="11dp"
+                android:layout_height="7dp"
+                android:background="@drawable/accounts_list"
+                android:layout_marginLeft="10dp"
+                android:backgroundTint="@color/brown"
+                />
 
             <ImageView
                 android:layout_width="20dp"
                 android:layout_height="20dp"
+                android:layout_marginStart="100dp"
                 android:background="@drawable/addchat"
                 android:backgroundTint="@color/brown" />
 
@@ -66,7 +75,7 @@
             <ImageView
                 android:layout_width="56dp"
                 android:layout_height="56dp"
-                android:src="@drawable/oval"
+                android:src="@drawable/joshua"
                 android:layout_marginEnd="16dp"/>
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -74,7 +83,7 @@
                 android:orientation="vertical">
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="0dp"
                 android:layout_weight="1"
                 android:text="@string/joshua_i"
                 android:textSize="16sp"
@@ -116,7 +125,7 @@
                     <ImageView
                         android:layout_width="56dp"
                         android:layout_height="56dp"
-                        android:background="@drawable/oval"
+                        android:background="@drawable/karennne"
                         android:layout_marginEnd="16dp"/>
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -124,10 +133,10 @@
                         android:orientation="vertical">
                         <TextView
                             android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_height="0dp"
                             android:textColor="@color/black"
                             android:layout_weight="1"
-                            android:text="@string/joshua_i"
+                            android:text="@string/karennne"
                             android:textSize="16sp"
                             android:textStyle="bold"
                             android:gravity="center"/>
@@ -135,14 +144,14 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textColor="@color/black"
-                            android:text="@string/have_a_nice_day_bro"
+                            android:text="@string/i_heard_this_is_a_good_movie"
                             android:textSize="16sp"
                             android:gravity="center"/>
                     </LinearLayout>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="60dp"
+                        android:layout_marginStart="8dp"
                         android:text="@string/now"
                         android:textSize="16sp"
                         android:layout_gravity="center"
@@ -166,7 +175,7 @@
                     <ImageView
                         android:layout_width="56dp"
                         android:layout_height="56dp"
-                        android:background="@drawable/oval"
+                        android:background="@drawable/martini_rond"
                         android:layout_marginEnd="16dp"/>
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -174,10 +183,10 @@
                         android:orientation="vertical">
                         <TextView
                             android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_height="0dp"
                             android:textColor="@color/black"
                             android:layout_weight="1"
-                            android:text="@string/joshua_i"
+                            android:text="@string/martini_rond"
                             android:textSize="16sp"
                             android:textStyle="bold"
                             android:gravity="center"/>
@@ -185,15 +194,15 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textColor="@color/black"
-                            android:text="@string/have_a_nice_day_bro"
+                            android:text="@string/see_you_on_the_next_meeting"
                             android:textSize="16sp"
                             android:gravity="center"/>
                     </LinearLayout>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="60dp"
-                        android:text="@string/now"
+                        android:layout_marginStart="15dp"
+                        android:text="@string/_15m"
                         android:textSize="16sp"
                         android:layout_gravity="center"
                         android:textColor="@color/black"
@@ -216,7 +225,7 @@
                     <ImageView
                         android:layout_width="56dp"
                         android:layout_height="56dp"
-                        android:background="@drawable/oval"
+                        android:background="@drawable/andrew"
                         android:layout_marginEnd="16dp"/>
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -224,10 +233,10 @@
                         android:orientation="vertical">
                         <TextView
                             android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_height="0dp"
                             android:textColor="@color/black"
                             android:layout_weight="1"
-                            android:text="@string/joshua_i"
+                            android:text="@string/andrewww"
                             android:textSize="16sp"
                             android:textStyle="bold"
                             android:gravity="center"/>
@@ -235,18 +244,69 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textColor="@color/black"
-                            android:text="@string/have_a_nice_day_bro"
+                            android:text="@string/sounds_good"
                             android:textSize="16sp"
                             android:gravity="center"/>
                     </LinearLayout>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="60dp"
-                        android:text="@string/now"
+                        android:layout_marginStart="32dp"
+                        android:text="@string/_20m"
                         android:textSize="16sp"
                         android:layout_gravity="center"
                         android:textColor="@color/black"
+                        />
+
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="22dp"
+                        android:layout_gravity="center"
+                        android:layout_marginStart="20dp"
+                        android:background="@drawable/picture"
+                        android:backgroundTint="@color/brown" />
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="16dp">
+                    <ImageView
+                        android:layout_width="56dp"
+                        android:layout_height="56dp"
+                        android:background="@drawable/kiero"
+                        android:layout_marginEnd="16dp"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="0dp"
+                            android:textColor="@color/black"
+                            android:layout_weight="1"
+                            android:text="@string/kiero_d"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            android:gravity="center"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/black"
+                            android:text="@string/the_new_design_looks_cool_b"
+                            android:textSize="16sp"
+                            android:gravity="center"/>
+                    </LinearLayout>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="22dp"
+                        android:text="@string/_1m"
+                        android:textSize="16sp"
+                        android:textColor="@color/black"
+                        android:layout_gravity="center"
                         />
                     <ImageView
                         android:layout_width="24dp"
@@ -266,7 +326,7 @@
                     <ImageView
                         android:layout_width="56dp"
                         android:layout_height="56dp"
-                        android:background="@drawable/oval"
+                        android:background="@drawable/maxjacobson"
                         android:layout_marginEnd="16dp"/>
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -274,10 +334,10 @@
                         android:orientation="vertical">
                         <TextView
                             android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_height="0dp"
                             android:textColor="@color/black"
                             android:layout_weight="1"
-                            android:text="@string/joshua_i"
+                            android:text="@string/maxjacobson"
                             android:textSize="16sp"
                             android:textStyle="bold"
                             android:gravity="center"/>
@@ -285,65 +345,15 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textColor="@color/black"
-                            android:text="@string/have_a_nice_day_bro"
+                            android:text="@string/thank_you_bro"
                             android:textSize="16sp"
                             android:gravity="center"/>
                     </LinearLayout>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="60dp"
-                        android:text="@string/now"
-                        android:textSize="16sp"
-                        android:textColor="@color/black"
-                        android:layout_gravity="center"
-                        />
-                    <ImageView
-                        android:layout_width="24dp"
-                        android:layout_height="22dp"
-                        android:background="@drawable/picture"
-                        android:backgroundTint="@color/brown"
-                        android:layout_marginStart="20dp"
-                        android:layout_gravity="center"/>
-
-
-                </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal"
-                    android:padding="16dp">
-                    <ImageView
-                        android:layout_width="56dp"
-                        android:layout_height="56dp"
-                        android:background="@drawable/oval"
-                        android:layout_marginEnd="16dp"/>
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:orientation="vertical">
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textColor="@color/black"
-                            android:layout_weight="1"
-                            android:text="@string/joshua_i"
-                            android:textSize="16sp"
-                            android:textStyle="bold"
-                            android:gravity="center"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textColor="@color/black"
-                            android:text="@string/have_a_nice_day_bro"
-                            android:textSize="16sp"
-                            android:gravity="center"/>
-                    </LinearLayout>
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="60dp"
-                        android:text="@string/now"
+                        android:layout_marginStart="100dp"
+                        android:text="@string/_2h"
                         android:textSize="16sp"
                         android:textColor="@color/black"
                         android:layout_gravity="center"
