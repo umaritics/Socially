@@ -66,4 +66,6 @@
     <string name="see_you_on_the_next_meeting">See you on the next meeting!</string>
     <string name="martini_rond">martini_rond</string>
     <string name="i_heard_this_is_a_good_movie">I heard this is a good movie,s...</string>
+    <string name="hello">Hello</string>
+    <string name="message">Message...</string>
 </resources>

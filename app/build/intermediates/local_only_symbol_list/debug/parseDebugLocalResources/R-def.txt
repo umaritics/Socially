@@ -30,12 +30,14 @@ drawable home_light
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable igtv
+drawable info
 drawable inner_oval
 drawable inner_oval1
 drawable inner_oval2
 drawable inner_oval3
 drawable inner_oval4
 drawable is_pic
+drawable is_pic_brown
 drawable joshua
 drawable karennne
 drawable kiero
@@ -70,6 +72,7 @@ drawable search_bold
 drawable searchbar
 drawable shop
 drawable socially_logo
+drawable videocam
 font montserrat
 font montserrat_blackitalic
 font montserrat_bold
@@ -111,6 +114,7 @@ id search_button
 id signup
 id socially_text
 layout activity_chats
+layout activity_internshala_chat
 layout activity_login1
 layout activity_login2
 layout activity_main

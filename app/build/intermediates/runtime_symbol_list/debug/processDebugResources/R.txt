@@ -3063,12 +3063,14 @@ int drawable ic_mtrl_chip_close_circle 0x7f0700a4
 int drawable ic_search_black_24 0x7f0700a5
 int drawable igtv 0x7f0700a6
 int drawable indeterminate_static 0x7f0700a7
+int drawable info 0x7f070121
 int drawable inner_oval 0x7f0700a8
 int drawable inner_oval1 0x7f0700a9
 int drawable inner_oval2 0x7f0700aa
 int drawable inner_oval3 0x7f0700ab
 int drawable inner_oval4 0x7f0700ac
 int drawable is_pic 0x7f070119
+int drawable is_pic_brown 0x7f070122
 int drawable joshua 0x7f07011c
 int drawable karennne 0x7f07011a
 int drawable kiero 0x7f07011d
@@ -3178,6 +3180,7 @@ int drawable socially_logo 0x7f070105
 int drawable test_level_drawable 0x7f070106
 int drawable tooltip_frame_dark 0x7f070107
 int drawable tooltip_frame_light 0x7f070108
+int drawable videocam 0x7f070123
 int font montserrat 0x7f080000
 int font montserrat_blackitalic 0x7f080001
 int font montserrat_bold 0x7f080002
@@ -3840,6 +3843,7 @@ int layout abc_search_view 0x7f0c0019
 int layout abc_select_dialog_material 0x7f0c001a
 int layout abc_tooltip 0x7f0c001b
 int layout activity_chats 0x7f0c001c
+int layout activity_internshala_chat 0x7f0c0073
 int layout activity_login1 0x7f0c001d
 int layout activity_login2 0x7f0c001e
 int layout activity_main 0x7f0c001f
