@@ -4,8 +4,16 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\layout\\activity_signup.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene15.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene15.jpg"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_rectangle_brown.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\rectangle_brown.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_craigdp.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\craigdp.jpg"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_volume.xml.flat",
@@ -60,8 +68,16 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene2.png"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_back_arrow.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene16.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene16.jpg"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_post1.jpg.flat",
@@ -78,6 +94,10 @@
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_kiero.png.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\kiero.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene6.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene6.jpg"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_outline_image_24.xml.flat",
@@ -124,6 +144,10 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\live.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene5.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene5.jpg"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
@@ -136,12 +160,16 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\font\\montserrat_lightitalic.ttf"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\font_montserrat_bolditalic.ttf.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\font\\montserrat_bolditalic.ttf"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene13.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene13.jpg"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_is_pic.png.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\is_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\font_montserrat_bolditalic.ttf.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\font\\montserrat_bolditalic.ttf"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_shop.xml.flat",
@@ -184,6 +212,10 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\post3.jpg"
     },
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene8.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene8.jpg"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_post7.png.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\post7.png"
     },
@@ -224,6 +256,10 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\layout\\activity_call.xml"
     },
     {
+        "merged": "com.example.socially.app-debug-34:/layout_activity_following.xml.flat",
+        "source": "com.example.socially.app-main-36:/layout/activity_following.xml"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_options.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\options.xml"
     },
@@ -234,6 +270,14 @@
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_inner_oval1.png.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\inner_oval1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene10.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene3.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene3.png"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_martini_rond.png.flat",
@@ -276,12 +320,28 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\font\\montserrat_bold.ttf"
     },
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_filledheart.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\filledheart.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene11.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene18.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene18.jpg"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_post9.png.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\post9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene3.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene3.jpg"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_searchbar.png.flat",
@@ -332,12 +392,20 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\layout\\activity_login1.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene41.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene41.jpg"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_messanger.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\messanger.xml"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\layout_activity_following.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\layout\\activity_following.xml"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_camera_icon.jpg.flat",
@@ -350,6 +418,10 @@
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_oval.png.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\oval.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene9.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene9.jpg"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_pagination.png.flat",
@@ -368,6 +440,10 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\official_icon.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene12.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene12.jpg"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
@@ -376,8 +452,12 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\font\\montserrat_extralightitalic.ttf"
     },
     {
-        "merged": "com.example.socially.app-debug-34:/layout_activity_call.xml.flat",
-        "source": "com.example.socially.app-main-36:/layout/activity_call.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene2.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene1.png"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_rectangle.png.flat",
@@ -402,6 +482,10 @@
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_like.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\like.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene1.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene1.jpg"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_maxjacobson.png.flat",
@@ -448,6 +532,14 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\save.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene4.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene14.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene14.jpg"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\layout_activity_posts.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\layout\\activity_posts.xml"
     },
@@ -456,8 +548,16 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\layout\\activity_internshala_chat.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_pfp2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\pfp2.png"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene7.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene7.jpg"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_videocam.xml.flat",
@@ -478,6 +578,10 @@
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_post8.png.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\post8.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_scene17.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-main-36:\\drawable\\scene17.jpg"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.13\\com.example.socially.app-debug-34:\\drawable_post2.jpg.flat",

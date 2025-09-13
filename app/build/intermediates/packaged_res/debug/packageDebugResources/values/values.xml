@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="blue">#3F51B5</color>
     <color name="brown">#80433E</color>
     <color name="dark_grey">#656565</color>
     <color name="grey">#AFAFAF</color>
@@ -19,6 +20,7 @@
     <string name="_20_05_2005">20-05-2005</string>
     <string name="_20m">• 20m</string>
     <string name="_2h">• 2h</string>
+    <string name="_3h">3h</string>
     <string name="_500_post">500+ post</string>
     <string name="and">and</string>
     <string name="andrewww">andrewww_</string>
@@ -51,12 +53,15 @@
     <string name="joshua_caption"><b>joshua_I</b> The game in Japan was amazing and I want to share some photos</string>
     <string name="joshua_i">joshua_I</string>
     <string name="karennne">karennne</string>
+    <string name="karennne_liked_3_posts"><b>karennne</b> liked 3 posts.</string>
     <string name="kiero_d">kiero_d</string>
+    <string name="kiero_d_zackjohn_and_craig_love_liked_joshua_i_photo">kiero_d, zackjohn and craig_love liked joshua_I photo.</string>
     <string name="kieron_d">kieron_d</string>
     <string name="liked_by">Liked by</string>
     <string name="log_in">Log in</string>
     <string name="martini_rond">martini_rond</string>
     <string name="maxjacobson">maxjacobson</string>
+    <string name="maxjacobson_liked_3_posts"><b>maxjacobson</b> liked 3 posts.</string>
     <string name="message">Message...</string>
     <string name="mother">Mother ❤️</string>
     <string name="music">Music</string>
