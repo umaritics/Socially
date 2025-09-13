@@ -302,7 +302,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/U:/Andriod%20Studio/plugins/android/lib/android.jar!/images/material/icons/materialiconsoutlined/image/outline_image_24.xml" />
+                                      <entry key="url" value="jar:file:/U:/Andriod%20Studio/plugins/android/lib/android.jar!/images/material/icons/materialicons/call_end/baseline_call_end_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -312,8 +312,9 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="outline_image_24" />
-                            <entry key="sourceFile" value="U:\SVGs\Accounts List.svg" />
+                            <entry key="assetSourceType" value="FILE" />
+                            <entry key="outputName" value="notes" />
+                            <entry key="sourceFile" value="U:\SVGs\notes.svg" />
                           </map>
                         </option>
                       </PersistentState>
