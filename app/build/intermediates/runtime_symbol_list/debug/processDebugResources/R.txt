@@ -3366,6 +3366,9 @@ int id beginOnFirstDraw 0x7f09005d
 int id beginning 0x7f09005e
 int id below 0x7f09005f
 int id bestChoice 0x7f090060
+int id bio1 0x7f0902ab
+int id bio2 0x7f0902ac
+int id bio3 0x7f0902ad
 int id blocking 0x7f090061
 int id bottom 0x7f090062
 int id bottom_bar 0x7f090063
@@ -3380,6 +3383,7 @@ int id callMeasure 0x7f09006a
 int id call_button 0x7f09006b
 int id call_end 0x7f09006c
 int id cancel_button 0x7f09006d
+int id canceltext 0x7f0902a3
 int id carryVelocity 0x7f09006e
 int id center 0x7f09006f
 int id centerCrop 0x7f090070
@@ -3390,6 +3394,7 @@ int id centeredtext 0x7f09028d
 int id chain 0x7f090074
 int id chain2 0x7f090075
 int id chains 0x7f090076
+int id changeprofilephoto 0x7f0902a4
 int id chat_button 0x7f090271
 int id chats_button 0x7f090077
 int id checkbox 0x7f090078
@@ -3424,6 +3429,7 @@ int id craigtext1 0x7f090245
 int id craigtext2 0x7f090229
 int id craigtext3 0x7f090246
 int id create 0x7f09008e
+int id create_button 0x7f0902a5
 int id currentState 0x7f09008f
 int id custom 0x7f090090
 int id customPanel 0x7f090091
@@ -3451,6 +3457,7 @@ int id disableIntraAutoTransition 0x7f0900a3
 int id disablePostScroll 0x7f0900a4
 int id disableScroll 0x7f0900a5
 int id disjoint 0x7f0900a6
+int id donetext 0x7f0902a6
 int id dragAnticlockwise 0x7f0900a7
 int id dragClockwise 0x7f0900a8
 int id dragDown 0x7f0900a9
@@ -3468,6 +3475,7 @@ int id edge 0x7f0900b4
 int id edit_query 0x7f0900b5
 int id edit_text_id 0x7f0900b6
 int id editprofile 0x7f090291
+int id editprofiletext 0x7f0902a7
 int id elastic 0x7f0900b7
 int id embed 0x7f0900b8
 int id emoji1 0x7f090247
@@ -3720,9 +3728,11 @@ int id path 0x7f09016e
 int id pathRelative 0x7f09016f
 int id peekHeight 0x7f090170
 int id percent 0x7f090171
+int id personalinfo 0x7f0902a8
 int id pfp2 0x7f090223
 int id pfp22 0x7f090232
 int id pfp23 0x7f09023f
+int id pfp_section 0x7f0902a9
 int id phototext 0x7f090224
 int id phototext1 0x7f09025a
 int id phototext2 0x7f09025b
@@ -3734,6 +3744,10 @@ int id postLayout 0x7f090176
 int id posttext 0x7f090233
 int id posttext2 0x7f090240
 int id pressed 0x7f090177
+int id privateinfo 0x7f0902ae
+int id privateinformation 0x7f0902af
+int id professional 0x7f0902b0
+int id profile_button 0x7f0902aa
 int id profile_image 0x7f090178
 int id profile_image1 0x7f090179
 int id profile_image2 0x7f09017a
@@ -4055,6 +4069,7 @@ int layout abc_select_dialog_material 0x7f0c001a
 int layout abc_tooltip 0x7f0c001b
 int layout activity_call 0x7f0c001c
 int layout activity_chats 0x7f0c001d
+int layout activity_editprofile 0x7f0c0079
 int layout activity_following 0x7f0c0075
 int layout activity_highlights 0x7f0c0077
 int layout activity_internshala_chat 0x7f0c001e
@@ -4154,6 +4169,7 @@ int string _03_12 0x7f100000
 int string _1000_post 0x7f100001
 int string _100_post 0x7f100002
 int string _15m 0x7f100003
+int string _1_202_555_0147 0x7f100122
 int string _1_3 0x7f100115
 int string _1h 0x7f10010e
 int string _1m 0x7f100004
@@ -4231,6 +4247,7 @@ int string design 0x7f100119
 int string digital_goodies_designer 0x7f10011a
 int string doe 0x7f100041
 int string don_t_have_an_account 0x7f100042
+int string done 0x7f100121
 int string e_mail 0x7f100043
 int string edit_profile 0x7f10011b
 int string error_a11y_label 0x7f100044
@@ -4246,6 +4263,7 @@ int string following_small 0x7f100110
 int string forgot_password 0x7f100049
 int string friends 0x7f10011d
 int string from_text 0x7f10004a
+int string gender 0x7f100123
 int string hash_internshala 0x7f10004b
 int string have_a_nice_day_bro 0x7f10004c
 int string hello 0x7f10004d
@@ -4293,6 +4311,7 @@ int string m3_sys_motion_easing_standard 0x7f10006f
 int string m3_sys_motion_easing_standard_accelerate 0x7f100070
 int string m3_sys_motion_easing_standard_decelerate 0x7f100071
 int string m_humphrey 0x7f10010d
+int string male 0x7f100124
 int string martini_rond 0x7f100072
 int string martini_rond_s 0x7f1000fd
 int string martini_rondat 0x7f1000fe
@@ -4398,6 +4417,7 @@ int string path_password_eye 0x7f1000cf
 int string path_password_eye_mask_strike_through 0x7f1000d0
 int string path_password_eye_mask_visible 0x7f1000d1
 int string path_password_strike_through 0x7f1000d2
+int string phone 0x7f100125
 int string photo 0x7f100103
 int string pixsellz 0x7f10011f
 int string reply 0x7f100104
@@ -4423,6 +4443,7 @@ int string started 0x7f100108
 int string status_bar_notification_info_overflow 0x7f1000e1
 int string style 0x7f1000e2
 int string switch_accounts 0x7f1000e3
+int string switch_to_professional_account 0x7f100126
 int string thank_you_bro 0x7f1000e4
 int string the_new_design_looks_cool_b 0x7f1000e5
 int string this_month 0x7f100112

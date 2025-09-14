@@ -122,4 +122,10 @@
     <string name="design">Design</string>
     <string name="sport">Sport</string>
     <string name="friends">Friends</string>
+    <string name="done">Done</string>
+    <string name="switch_to_professional_account">Switch to Professional Account</string>
+    <string name="phone">Phone</string>
+    <string name="_1_202_555_0147">+1 202 555 0147</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
 </resources>

@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
 
         Handler(Looper.getMainLooper()).postDelayed({
             // Start your app main activity here
-            startActivity(android.content.Intent(this, Profile::class.java))
+            startActivity(android.content.Intent(this, Editprofile::class.java))
             finish() // Call finish() to close the splash screen activity
         }, 2000)
     }

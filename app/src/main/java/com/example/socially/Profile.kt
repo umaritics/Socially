@@ -1,6 +1,7 @@
 package com.example.socially
 
 import android.os.Bundle
+import android.widget.Button
 import android.widget.ImageView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -17,6 +18,7 @@ class Profile : AppCompatActivity() {
         var search_button = findViewById<ImageView>(R.id.search_button)
         var create_button = findViewById<ImageView>(R.id.create_button)
         var following_button = findViewById<ImageView>(R.id.following_button)
+        var editprofile = findViewById<Button>(R.id.editprofile)
 
 
 
@@ -35,6 +37,9 @@ class Profile : AppCompatActivity() {
         following_button.setOnClickListener {
            startActivity(android.content.Intent(this, Following::class.java))
            finish()
+        }
+        editprofile.setOnClickListener {
+            startActivity(android.content.Intent(this, Editprofile::class.java))
         }
     }
 }

@@ -163,11 +163,16 @@ id andaftermax
 id andaftermax2
 id back
 id back_button
+id bio1
+id bio2
+id bio3
 id bottom_bar
 id bottom_nav
 id call_button
 id call_end
+id canceltext
 id centeredtext
+id changeprofilephoto
 id chat_button
 id chats_button
 id close
@@ -181,10 +186,13 @@ id craigtext1
 id craigtext2
 id craigtext3
 id create
+id create_button
 id description
 id description1
 id description2
+id donetext
 id editprofile
+id editprofiletext
 id emoji1
 id exactlytext
 id following_button
@@ -259,9 +267,11 @@ id newtext1
 id nicetext
 id notes
 id other26text
+id personalinfo
 id pfp2
 id pfp22
 id pfp23
+id pfp_section
 id phototext
 id phototext1
 id phototext2
@@ -269,6 +279,10 @@ id post1
 id post12
 id posttext
 id posttext2
+id privateinfo
+id privateinformation
+id professional
+id profile_button
 id profile_image
 id profile_image1
 id profile_image2
@@ -329,6 +343,7 @@ id youtext5
 id zackjohntext
 layout activity_call
 layout activity_chats
+layout activity_editprofile
 layout activity_following
 layout activity_highlights
 layout activity_internshala_chat
@@ -348,6 +363,7 @@ string _03_12
 string _1000_post
 string _100_post
 string _15m
+string _1_202_555_0147
 string _1_3
 string _1h
 string _1m
@@ -379,6 +395,7 @@ string design
 string digital_goodies_designer
 string doe
 string don_t_have_an_account
+string done
 string e_mail
 string edit_profile
 string everything_is_designed
@@ -389,6 +406,7 @@ string following_small
 string forgot_password
 string friends
 string from_text
+string gender
 string hash_internshala
 string have_a_nice_day_bro
 string hello
@@ -417,6 +435,7 @@ string liked
 string liked_by
 string log_in
 string m_humphrey
+string male
 string martini_rond
 string martini_rond_s
 string martini_rondat
@@ -433,6 +452,7 @@ string nice
 string now
 string or
 string password
+string phone
 string photo
 string pixsellz
 string reply
@@ -451,6 +471,7 @@ string star_emoji
 string started
 string style
 string switch_accounts
+string switch_to_professional_account
 string thank_you_bro
 string the_new_design_looks_cool_b
 string this_month
