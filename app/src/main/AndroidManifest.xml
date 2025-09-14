@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Socially">
         <activity
+            android:name=".Highlights"
+            android:exported="false" />
+        <activity
             android:name=".You"
             android:exported="false" />
         <activity

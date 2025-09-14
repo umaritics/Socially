@@ -3013,6 +3013,7 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable accounts_list
+drawable activity
 drawable addchat
 drawable andrew
 drawable avd_hide_password
@@ -3033,9 +3034,12 @@ drawable camera
 drawable camera_filled
 drawable camera_icon
 drawable chevron_left
+drawable chevron_right
+drawable close
 drawable comment
 drawable craigdp
 drawable create
+drawable create_post
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -3046,6 +3050,7 @@ drawable filledheart
 drawable gallery
 drawable gallery_icon
 drawable hash
+drawable highlight_slides
 drawable home
 drawable home_light
 drawable ic_arrow_back_black_24
@@ -3148,6 +3153,7 @@ drawable mtrl_switch_thumb_unchecked_pressed
 drawable mtrl_switch_track
 drawable mtrl_switch_track_decoration
 drawable mtrl_tabs_default_indicator
+drawable music
 drawable navigation_empty_icon
 drawable notes
 drawable notification_action_background
@@ -3185,6 +3191,7 @@ drawable post8
 drawable post9
 drawable rectangle
 drawable rectangle_brown
+drawable reels
 drawable round_brown_button
 drawable round_button
 drawable rounded_bg
@@ -3215,6 +3222,7 @@ drawable shop
 drawable small_heart
 drawable socially_logo
 drawable stickers
+drawable story_bg
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3343,6 +3351,7 @@ id bestChoice
 id blocking
 id bottom
 id bottom_bar
+id bottom_nav
 id bounce
 id bounceBoth
 id bounceEnd
@@ -3482,6 +3491,7 @@ id groups
 id header_title
 id hide_ime_id
 id hideable
+id highlighttext
 id home
 id homeAsUp
 id home_button
@@ -3489,6 +3499,12 @@ id honorRequest
 id horizontal
 id horizontal_only
 id icon
+id icon1
+id icon2
+id icon3
+id icon4
+id icon5
+id icon6
 id icon_group
 id ifRoom
 id ignore
@@ -3610,6 +3626,14 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id music_icon
+id musictext
+id nav_item1
+id nav_item2
+id nav_item3
+id nav_item4
+id nav_item5
+id nav_item6
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3764,6 +3788,7 @@ id startedtext5
 id staticLayout
 id staticPostLayout
 id stop
+id story_dp
 id stretch
 id submenuarrow
 id submit_area
@@ -3785,9 +3810,11 @@ id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
 id text
+id text1
 id text1h1
 id text2
 id text2d1
+id text3
 id text3h
 id text3h1
 id text3h2
@@ -3795,6 +3822,9 @@ id text3h3
 id text3h4
 id text3h5
 id text3h6
+id text4
+id text5
+id text6
 id text8posts
 id textEnd
 id textSpacerNoButtons
@@ -3985,6 +4015,7 @@ layout abc_tooltip
 layout activity_call
 layout activity_chats
 layout activity_following
+layout activity_highlights
 layout activity_internshala_chat
 layout activity_login1
 layout activity_login2
@@ -4121,11 +4152,13 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string activity
 string and
 string andrewww
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
+string artist_song_title
 string auto
 string bottom_sheet_behavior
 string bottomsheet_action_collapse

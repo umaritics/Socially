@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Socially" >
         <activity
+            android:name="com.example.socially.Highlights"
+            android:exported="false" />
+        <activity
             android:name="com.example.socially.You"
             android:exported="false" />
         <activity

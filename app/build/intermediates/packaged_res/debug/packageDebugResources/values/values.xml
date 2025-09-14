@@ -29,9 +29,11 @@
     <string name="_44_686_others">44,686 others</string>
     <string name="_500_post">500+ post</string>
     <string name="_8_posts">8 posts.</string>
+    <string name="activity">Activity</string>
     <string name="and">and</string>
     <string name="andrewww">andrewww_</string>
     <string name="app_name">Socially</string>
+    <string name="artist_song_title"><b>Artist</b> • Song Title</string>
     <string name="auto">Auto</string>
     <string name="camera">Camera</string>
     <string name="clear">Clear</string>
