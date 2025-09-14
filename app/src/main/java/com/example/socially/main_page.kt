@@ -18,6 +18,8 @@ class main_page : AppCompatActivity() {
         var chat_button = findViewById<ImageView>(R.id.chats_button)
         var search_button = findViewById<ImageView>(R.id.search_button)
         var heart_button = findViewById<ImageView>(R.id.following_button)
+        var create_button = findViewById<ImageView>(R.id.create_button)
+        var story = findViewById<CircleImageView>(R.id.profile_image1)
         var profile_button = findViewById<CircleImageView>(R.id.profile_button)
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
@@ -30,11 +32,18 @@ class main_page : AppCompatActivity() {
         search_button.setOnClickListener {
             startActivity(android.content.Intent(this, Posts::class.java))
         }
+
         heart_button.setOnClickListener {
             startActivity(android.content.Intent(this, Following::class.java))
         }
         profile_button.setOnClickListener {
             startActivity(android.content.Intent(this, Profile::class.java))
+        }
+        create_button.setOnClickListener {
+            startActivity(android.content.Intent(this, Addcontent::class.java))
+        }
+        story.setOnClickListener {
+            startActivity(android.content.Intent(this, Story::class.java))
         }
     }
 

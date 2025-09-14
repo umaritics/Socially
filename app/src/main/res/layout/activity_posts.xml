@@ -335,6 +335,7 @@
                             android:scaleType="centerCrop" />
                     </LinearLayout>
                     <ImageView
+
                         android:layout_width="250dp"
                         android:layout_height="249dp"
                         android:padding="0.5dp"
@@ -442,6 +443,7 @@
                 android:backgroundTint="@color/brown"/>
 
             <ImageView
+
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:layout_gravity="center"
@@ -450,6 +452,7 @@
                 android:backgroundTint="@color/brown"/>
 
             <ImageView
+                android:id="@+id/create_button"
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:layout_gravity="center"
@@ -458,15 +461,16 @@
                 android:backgroundTint="@color/brown"/>
 
             <ImageView
-                android:layout_width="24dp"
+                android:id="@+id/following_button"
+                android:layout_width="wrap_content"
                 android:layout_height="21dp"
                 android:layout_gravity="center"
                 android:layout_marginHorizontal="26dp"
                 android:background="@drawable/like"
-                android:backgroundTint="@color/brown"/>
+                android:backgroundTint="@color/brown" />
 
             <de.hdodenhof.circleimageview.CircleImageView
-
+                android:id="@+id/profile_button"
                 android:layout_width="20dp"
                 android:layout_height="20dp"
                 android:layout_gravity="center"

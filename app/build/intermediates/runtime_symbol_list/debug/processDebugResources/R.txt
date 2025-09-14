@@ -3256,6 +3256,7 @@ int drawable small_heart 0x7f070146
 int drawable socially_logo 0x7f070127
 int drawable stickers 0x7f070128
 int drawable story_bg 0x7f070151
+int drawable story_bg1 0x7f070176
 int drawable tags_icon 0x7f070162
 int drawable test_level_drawable 0x7f070129
 int drawable tooltip_frame_dark 0x7f07012a
@@ -3424,6 +3425,7 @@ int id clip_horizontal 0x7f09007d
 int id clip_vertical 0x7f09007e
 int id clockwise 0x7f09007f
 int id close 0x7f09028b
+int id close_button 0x7f0902b8
 int id closest 0x7f090080
 int id collapseActionView 0x7f090081
 int id commenttext 0x7f090237
@@ -3817,6 +3819,8 @@ int id search_voice_btn 0x7f0901a0
 int id select_dialog_listview 0x7f0901a1
 int id selected 0x7f0901a2
 int id selection_type 0x7f0901a3
+int id send 0x7f0902b9
+int id sendmessage 0x7f0902ba
 int id sharedValueSet 0x7f0901a4
 int id sharedValueUnset 0x7f0901a5
 int id shop 0x7f090219
@@ -4107,6 +4111,7 @@ int layout activity_posts 0x7f0c0023
 int layout activity_profile 0x7f0c0078
 int layout activity_search 0x7f0c0024
 int layout activity_signup 0x7f0c0025
+int layout activity_story 0x7f0c007b
 int layout activity_you 0x7f0c0076
 int layout custom_dialog 0x7f0c0026
 int layout design_bottom_navigation_item 0x7f0c0027
@@ -4458,6 +4463,7 @@ int string searchbar_scrolling_view_behavior 0x7f1000d5
 int string searchview_clear_text_content_description 0x7f1000d6
 int string searchview_navigation_content_description 0x7f1000d7
 int string see_you_on_the_next_meeting 0x7f1000d8
+int string send_message 0x7f10012a
 int string shop 0x7f1000d9
 int string side_sheet_accessibility_pane_title 0x7f1000da
 int string side_sheet_behavior 0x7f1000db

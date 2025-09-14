@@ -530,12 +530,13 @@
                 android:backgroundTint="@color/brown"/>
 
             <ImageView
-                android:layout_width="24dp"
+                android:id="@+id/create_button"
+                android:layout_width="wrap_content"
                 android:layout_height="24dp"
                 android:layout_gravity="center"
                 android:layout_marginHorizontal="26dp"
                 android:background="@drawable/create"
-                android:backgroundTint="@color/brown"/>
+                android:backgroundTint="@color/brown" />
 
             <ImageView
                 android:id="@+id/following_button"

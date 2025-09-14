@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Socially" >
         <activity
+            android:name="com.example.socially.Story"
+            android:exported="false" />
+        <activity
             android:name="com.example.socially.Addcontent"
             android:exported="false" />
         <activity

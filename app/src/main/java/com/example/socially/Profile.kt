@@ -3,6 +3,7 @@ package com.example.socially
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
+import android.widget.LinearLayout
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -19,6 +20,7 @@ class Profile : AppCompatActivity() {
         var create_button = findViewById<ImageView>(R.id.create_button)
         var following_button = findViewById<ImageView>(R.id.following_button)
         var editprofile = findViewById<Button>(R.id.editprofile)
+        var highlights_button = findViewById<LinearLayout>(R.id.item2)
 
 
 
@@ -40,6 +42,9 @@ class Profile : AppCompatActivity() {
         }
         editprofile.setOnClickListener {
             startActivity(android.content.Intent(this, Editprofile::class.java))
+        }
+        highlights_button.setOnClickListener {
+            startActivity(android.content.Intent(this, Highlights::class.java))
         }
     }
 }

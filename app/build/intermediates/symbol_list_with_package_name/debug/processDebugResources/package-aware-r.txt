@@ -3257,6 +3257,7 @@ drawable small_heart
 drawable socially_logo
 drawable stickers
 drawable story_bg
+drawable story_bg1
 drawable tags_icon
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -3425,6 +3426,7 @@ id clip_horizontal
 id clip_vertical
 id clockwise
 id close
+id close_button
 id closest
 id collapseActionView
 id commenttext
@@ -3818,6 +3820,8 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id send
+id sendmessage
 id sharedValueSet
 id sharedValueUnset
 id shop
@@ -4108,6 +4112,7 @@ layout activity_posts
 layout activity_profile
 layout activity_search
 layout activity_signup
+layout activity_story
 layout activity_you
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -4459,6 +4464,7 @@ string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description
 string searchview_navigation_content_description
 string see_you_on_the_next_meeting
+string send_message
 string shop
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior

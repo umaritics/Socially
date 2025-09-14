@@ -151,6 +151,7 @@ drawable small_heart
 drawable socially_logo
 drawable stickers
 drawable story_bg
+drawable story_bg1
 drawable tags_icon
 drawable video_icon
 drawable videocam
@@ -194,6 +195,7 @@ id changeprofilephoto
 id chat_button
 id chats_button
 id close
+id close_button
 id commenttext
 id commenttext2
 id content
@@ -317,6 +319,8 @@ id profile_image_post
 id profilerow
 id replytext1
 id search_button
+id send
+id sendmessage
 id shop
 id signup
 id socially_text
@@ -381,6 +385,7 @@ layout activity_posts
 layout activity_profile
 layout activity_search
 layout activity_signup
+layout activity_story
 layout activity_you
 mipmap ic_launcher
 mipmap ic_launcher_foreground
@@ -489,6 +494,7 @@ string s_post
 string s_post_
 string search
 string see_you_on_the_next_meeting
+string send_message
 string shop
 string sign_up
 string smd_text

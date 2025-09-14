@@ -231,9 +231,10 @@
                     >
 
                     <de.hdodenhof.circleimageview.CircleImageView
+
                         android:layout_width="64dp"
                         android:layout_height="64dp"
-                        android:src="@drawable/profilepic"
+                        android:background="@drawable/profilepic"
                         app:civ_border_width="2dp"
                         app:civ_border_color="@color/grey"
                         android:scaleType="centerCrop" />
@@ -249,6 +250,7 @@
                 </LinearLayout>
 
                 <LinearLayout
+
                     android:layout_toRightOf="@id/item1"
                     android:id="@+id/item2"
                     android:layout_width="wrap_content"
