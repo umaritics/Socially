@@ -3048,8 +3048,12 @@ int drawable dp 0x7f070094
 int drawable filledheart 0x7f070143
 int drawable gallery 0x7f070095
 int drawable gallery_icon 0x7f070096
+int drawable grid_icon 0x7f070154
 int drawable hash 0x7f070097
+int drawable highlight1 0x7f070155
+int drawable highlight2 0x7f070156
 int drawable highlight_slides 0x7f07014e
+int drawable higlight3 0x7f070157
 int drawable home 0x7f070098
 int drawable home_light 0x7f070099
 int drawable ic_arrow_back_black_24 0x7f07009a
@@ -3112,6 +3116,7 @@ int drawable material_ic_keyboard_arrow_right_black_24dp 0x7f0700d0
 int drawable material_ic_menu_arrow_down_black_24dp 0x7f0700d1
 int drawable material_ic_menu_arrow_up_black_24dp 0x7f0700d2
 int drawable maxjacobson 0x7f0700d3
+int drawable menu 0x7f070152
 int drawable messanger 0x7f0700d4
 int drawable mic 0x7f0700d5
 int drawable mispotter_dp 0x7f070145
@@ -3188,6 +3193,17 @@ int drawable post6 0x7f070119
 int drawable post7 0x7f07011a
 int drawable post8 0x7f07011b
 int drawable post9 0x7f07011c
+int drawable private_icon 0x7f070153
+int drawable profilepic 0x7f070158
+int drawable profilepost1 0x7f070159
+int drawable profilepost2 0x7f07015a
+int drawable profilepost3 0x7f07015b
+int drawable profilepost4 0x7f07015c
+int drawable profilepost5 0x7f07015d
+int drawable profilepost6 0x7f07015e
+int drawable profilepost7 0x7f07015f
+int drawable profilepost8 0x7f070160
+int drawable profilepost9 0x7f070161
 int drawable rectangle 0x7f07011d
 int drawable rectangle_brown 0x7f07011e
 int drawable reels 0x7f070150
@@ -3222,9 +3238,11 @@ int drawable small_heart 0x7f070146
 int drawable socially_logo 0x7f070127
 int drawable stickers 0x7f070128
 int drawable story_bg 0x7f070151
+int drawable tags_icon 0x7f070162
 int drawable test_level_drawable 0x7f070129
 int drawable tooltip_frame_dark 0x7f07012a
 int drawable tooltip_frame_light 0x7f07012b
+int drawable video_icon 0x7f070163
 int drawable videocam 0x7f07012c
 int drawable volume 0x7f07012d
 int drawable you_scene1 0x7f070147
@@ -3254,6 +3272,7 @@ int id CTRL 0x7f090003
 int id FUNCTION 0x7f090004
 int id META 0x7f090005
 int id NO_DEBUG 0x7f090006
+int id Nav 0x7f09028c
 int id SHIFT 0x7f090007
 int id SHOW_ALL 0x7f090008
 int id SHOW_PATH 0x7f090009
@@ -3367,6 +3386,7 @@ int id centerCrop 0x7f090070
 int id centerInside 0x7f090071
 int id center_horizontal 0x7f090072
 int id center_vertical 0x7f090073
+int id centeredtext 0x7f09028d
 int id chain 0x7f090074
 int id chain2 0x7f090075
 int id chains 0x7f090076
@@ -3380,6 +3400,7 @@ int id clear_text 0x7f09007c
 int id clip_horizontal 0x7f09007d
 int id clip_vertical 0x7f09007e
 int id clockwise 0x7f09007f
+int id close 0x7f09028b
 int id closest 0x7f090080
 int id collapseActionView 0x7f090081
 int id commenttext 0x7f090237
@@ -3414,6 +3435,9 @@ int id decor_content_parent 0x7f090096
 int id default_activity_button 0x7f090097
 int id deltaRelative 0x7f090098
 int id dependency_ordering 0x7f090099
+int id description 0x7f09028e
+int id description1 0x7f09028f
+int id description2 0x7f090290
 int id design_bottom_sheet 0x7f09009a
 int id design_menu_item_action_area 0x7f09009b
 int id design_menu_item_action_area_stub 0x7f09009c
@@ -3443,6 +3467,7 @@ int id east 0x7f0900b3
 int id edge 0x7f0900b4
 int id edit_query 0x7f0900b5
 int id edit_text_id 0x7f0900b6
+int id editprofile 0x7f090291
 int id elastic 0x7f0900b7
 int id embed 0x7f0900b8
 int id emoji1 0x7f090247
@@ -3484,12 +3509,14 @@ int id ghost_view_holder 0x7f0900d4
 int id gone 0x7f0900d5
 int id graph 0x7f0900d6
 int id graph_wrap 0x7f0900d7
+int id gridLayout 0x7f090292
 int id group_divider 0x7f0900d8
 int id grouping 0x7f0900d9
 int id groups 0x7f0900da
 int id header_title 0x7f0900db
 int id hide_ime_id 0x7f0900dc
 int id hideable 0x7f0900dd
+int id highlightsbar 0x7f090293
 int id highlighttext 0x7f090276
 int id home 0x7f0900de
 int id homeAsUp 0x7f0900df
@@ -3505,6 +3532,7 @@ int id icon4 0x7f09027a
 int id icon5 0x7f09027b
 int id icon6 0x7f09027c
 int id icon_group 0x7f0900e5
+int id icon_overlay 0x7f090294
 int id ifRoom 0x7f0900e6
 int id ignore 0x7f0900e7
 int id ignoreRequest 0x7f0900e8
@@ -3518,6 +3546,10 @@ int id internshala 0x7f0900ee
 int id invisible 0x7f0900ef
 int id inward 0x7f0900f0
 int id italic 0x7f0900f1
+int id item1 0x7f090295
+int id item2 0x7f090296
+int id item3 0x7f090297
+int id item4 0x7f090298
 int id item_touch_helper_previous_elevation 0x7f0900f2
 int id jacobtag 0x7f09024c
 int id joshua_itext 0x7f09021e
@@ -3543,6 +3575,7 @@ int id likedtext4 0x7f09023a
 int id line1 0x7f0900fa
 int id line3 0x7f0900fb
 int id linear 0x7f0900fc
+int id link 0x7f090299
 int id listMode 0x7f0900fd
 int id list_item 0x7f0900fe
 int id login_button 0x7f0900ff
@@ -3627,6 +3660,7 @@ int id mtrl_view_tag_bottom_padding 0x7f09013e
 int id multiply 0x7f09013f
 int id music_icon 0x7f09027d
 int id musictext 0x7f09027e
+int id name 0x7f09029a
 int id nav_item1 0x7f09027f
 int id nav_item2 0x7f090280
 int id nav_item3 0x7f090281
@@ -3708,6 +3742,7 @@ int id profile_image4 0x7f09017c
 int id profile_image5 0x7f09017d
 int id profile_image6 0x7f09017e
 int id profile_image_post 0x7f09017f
+int id profilerow 0x7f09029b
 int id progress_circular 0x7f090180
 int id progress_horizontal 0x7f090181
 int id radio 0x7f090182
@@ -3810,10 +3845,16 @@ int id tag_unhandled_key_listeners 0x7f0901da
 int id tag_window_insets_animation_callback 0x7f0901db
 int id text 0x7f0901dc
 int id text1 0x7f090286
+int id text1_1 0x7f09029c
+int id text1_2 0x7f09029d
 int id text1h1 0x7f090260
 int id text2 0x7f0901dd
+int id text2_1 0x7f09029e
+int id text2_2 0x7f09029f
 int id text2d1 0x7f090261
 int id text3 0x7f090287
+int id text3_1 0x7f0902a0
+int id text3_2 0x7f0902a1
 int id text3h 0x7f090226
 int id text3h1 0x7f090227
 int id text3h2 0x7f09022b
@@ -3850,6 +3891,7 @@ int id toggle 0x7f0901f0
 int id top 0x7f0901f1
 int id topNav 0x7f090243
 int id topPanel 0x7f0901f2
+int id toptext 0x7f0902a2
 int id touch_outside 0x7f0901f3
 int id transitionToEnd 0x7f0901f4
 int id transitionToStart 0x7f0901f5
@@ -4021,6 +4063,7 @@ int layout activity_login2 0x7f0c0020
 int layout activity_main 0x7f0c0021
 int layout activity_main_page 0x7f0c0022
 int layout activity_posts 0x7f0c0023
+int layout activity_profile 0x7f0c0078
 int layout activity_search 0x7f0c0024
 int layout activity_signup 0x7f0c0025
 int layout activity_you 0x7f0c0076
@@ -4184,11 +4227,15 @@ int string craig_love_ 0x7f1000f5
 int string create_an_account 0x7f10003e
 int string create_an_account_and_sign_up 0x7f10003f
 int string date_of_birth 0x7f100040
+int string design 0x7f100119
+int string digital_goodies_designer 0x7f10011a
 int string doe 0x7f100041
 int string don_t_have_an_account 0x7f100042
 int string e_mail 0x7f100043
+int string edit_profile 0x7f10011b
 int string error_a11y_label 0x7f100044
 int string error_icon_content_description 0x7f100045
+int string everything_is_designed 0x7f10011c
 int string exactly 0x7f1000f6
 int string exposed_dropdown_menu_content_description 0x7f100046
 int string fab_transformation_scrim_behavior 0x7f100047
@@ -4197,6 +4244,7 @@ int string follow_requests 0x7f1000f7
 int string following 0x7f1000f8
 int string following_small 0x7f100110
 int string forgot_password 0x7f100049
+int string friends 0x7f10011d
 int string from_text 0x7f10004a
 int string hash_internshala 0x7f10004b
 int string have_a_nice_day_bro 0x7f10004c
@@ -4213,6 +4261,7 @@ int string internshalastudentpartner 0x7f100056
 int string item_view_role_description 0x7f100057
 int string jacob_w 0x7f100058
 int string jacob_w_atrate 0x7f1000f9
+int string jacob_west 0x7f10011e
 int string john 0x7f100059
 int string johndoe_gmail_com 0x7f10005a
 int string joshua_caption 0x7f10005b
@@ -4350,6 +4399,7 @@ int string path_password_eye_mask_strike_through 0x7f1000d0
 int string path_password_eye_mask_visible 0x7f1000d1
 int string path_password_strike_through 0x7f1000d2
 int string photo 0x7f100103
+int string pixsellz 0x7f10011f
 int string reply 0x7f100104
 int string s_post 0x7f100105
 int string s_post_ 0x7f100106
@@ -4366,6 +4416,7 @@ int string sign_up 0x7f1000dc
 int string smd_text 0x7f1000dd
 int string socially_text 0x7f1000de
 int string sounds_good 0x7f1000df
+int string sport 0x7f100120
 int string sports 0x7f1000e0
 int string star_emoji 0x7f100107
 int string started 0x7f100108

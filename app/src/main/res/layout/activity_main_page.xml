@@ -547,7 +547,7 @@
                 android:backgroundTint="@color/brown"/>
 
             <de.hdodenhof.circleimageview.CircleImageView
-
+android:id="@+id/profile_button"
                 android:layout_width="20dp"
                 android:layout_height="20dp"
                 android:layout_gravity="center"

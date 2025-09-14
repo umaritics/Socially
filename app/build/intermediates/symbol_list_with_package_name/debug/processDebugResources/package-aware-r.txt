@@ -3049,8 +3049,12 @@ drawable dp
 drawable filledheart
 drawable gallery
 drawable gallery_icon
+drawable grid_icon
 drawable hash
+drawable highlight1
+drawable highlight2
 drawable highlight_slides
+drawable higlight3
 drawable home
 drawable home_light
 drawable ic_arrow_back_black_24
@@ -3113,6 +3117,7 @@ drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
 drawable maxjacobson
+drawable menu
 drawable messanger
 drawable mic
 drawable mispotter_dp
@@ -3189,6 +3194,17 @@ drawable post6
 drawable post7
 drawable post8
 drawable post9
+drawable private_icon
+drawable profilepic
+drawable profilepost1
+drawable profilepost2
+drawable profilepost3
+drawable profilepost4
+drawable profilepost5
+drawable profilepost6
+drawable profilepost7
+drawable profilepost8
+drawable profilepost9
 drawable rectangle
 drawable rectangle_brown
 drawable reels
@@ -3223,9 +3239,11 @@ drawable small_heart
 drawable socially_logo
 drawable stickers
 drawable story_bg
+drawable tags_icon
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable video_icon
 drawable videocam
 drawable volume
 drawable you_scene1
@@ -3255,6 +3273,7 @@ id CTRL
 id FUNCTION
 id META
 id NO_DEBUG
+id Nav
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -3368,6 +3387,7 @@ id centerCrop
 id centerInside
 id center_horizontal
 id center_vertical
+id centeredtext
 id chain
 id chain2
 id chains
@@ -3381,6 +3401,7 @@ id clear_text
 id clip_horizontal
 id clip_vertical
 id clockwise
+id close
 id closest
 id collapseActionView
 id commenttext
@@ -3415,6 +3436,9 @@ id decor_content_parent
 id default_activity_button
 id deltaRelative
 id dependency_ordering
+id description
+id description1
+id description2
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -3444,6 +3468,7 @@ id east
 id edge
 id edit_query
 id edit_text_id
+id editprofile
 id elastic
 id embed
 id emoji1
@@ -3485,12 +3510,14 @@ id ghost_view_holder
 id gone
 id graph
 id graph_wrap
+id gridLayout
 id group_divider
 id grouping
 id groups
 id header_title
 id hide_ime_id
 id hideable
+id highlightsbar
 id highlighttext
 id home
 id homeAsUp
@@ -3506,6 +3533,7 @@ id icon4
 id icon5
 id icon6
 id icon_group
+id icon_overlay
 id ifRoom
 id ignore
 id ignoreRequest
@@ -3519,6 +3547,10 @@ id internshala
 id invisible
 id inward
 id italic
+id item1
+id item2
+id item3
+id item4
 id item_touch_helper_previous_elevation
 id jacobtag
 id joshua_itext
@@ -3544,6 +3576,7 @@ id likedtext4
 id line1
 id line3
 id linear
+id link
 id listMode
 id list_item
 id login_button
@@ -3628,6 +3661,7 @@ id mtrl_view_tag_bottom_padding
 id multiply
 id music_icon
 id musictext
+id name
 id nav_item1
 id nav_item2
 id nav_item3
@@ -3709,6 +3743,7 @@ id profile_image4
 id profile_image5
 id profile_image6
 id profile_image_post
+id profilerow
 id progress_circular
 id progress_horizontal
 id radio
@@ -3811,10 +3846,16 @@ id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
 id text
 id text1
+id text1_1
+id text1_2
 id text1h1
 id text2
+id text2_1
+id text2_2
 id text2d1
 id text3
+id text3_1
+id text3_2
 id text3h
 id text3h1
 id text3h2
@@ -3851,6 +3892,7 @@ id toggle
 id top
 id topNav
 id topPanel
+id toptext
 id touch_outside
 id transitionToEnd
 id transitionToStart
@@ -4022,6 +4064,7 @@ layout activity_login2
 layout activity_main
 layout activity_main_page
 layout activity_posts
+layout activity_profile
 layout activity_search
 layout activity_signup
 layout activity_you
@@ -4185,11 +4228,15 @@ string craig_love_
 string create_an_account
 string create_an_account_and_sign_up
 string date_of_birth
+string design
+string digital_goodies_designer
 string doe
 string don_t_have_an_account
 string e_mail
+string edit_profile
 string error_a11y_label
 string error_icon_content_description
+string everything_is_designed
 string exactly
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -4198,6 +4245,7 @@ string follow_requests
 string following
 string following_small
 string forgot_password
+string friends
 string from_text
 string hash_internshala
 string have_a_nice_day_bro
@@ -4214,6 +4262,7 @@ string internshalastudentpartner
 string item_view_role_description
 string jacob_w
 string jacob_w_atrate
+string jacob_west
 string john
 string johndoe_gmail_com
 string joshua_caption
@@ -4351,6 +4400,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string photo
+string pixsellz
 string reply
 string s_post
 string s_post_
@@ -4367,6 +4417,7 @@ string sign_up
 string smd_text
 string socially_text
 string sounds_good
+string sport
 string sports
 string star_emoji
 string started

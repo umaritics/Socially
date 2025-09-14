@@ -822,65 +822,65 @@
 
             </LinearLayout>
         </ScrollView>
-        <LinearLayout
-            android:id="@+id/bottom_bar"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_gravity="bottom"
-            android:layout_alignParentBottom="true"
-            android:background="@color/white"
-            android:paddingVertical="10dp">
 
-            <ImageView
-                android:id="@+id/home_button"
-                android:layout_width="22dp"
-                android:layout_height="24dp"
-                android:layout_gravity="center"
-                android:layout_marginHorizontal="26dp"
-                android:background="@drawable/home_light"
-                android:backgroundTint="@color/brown" />
-
-            <ImageView
-                android:id="@+id/search_button"
-                android:layout_width="24dp"
+            <LinearLayout
+                android:id="@+id/bottom_bar"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_marginHorizontal="26dp"
-                android:background="@drawable/search"
-                android:backgroundTint="@color/brown" />
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="-2dp"
+                android:background="@color/white"
+                android:orientation="horizontal"
+                android:paddingVertical="10dp">
 
-            <ImageView
-                android:layout_width="24dp"
-                android:layout_height="24dp"
-                android:layout_gravity="center"
-                android:layout_marginHorizontal="26dp"
-                android:background="@drawable/create"
-                android:backgroundTint="@color/brown"/>
+                <ImageView
+                    android:id="@+id/home_button"
+                    android:layout_width="22dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:layout_marginHorizontal="26dp"
+                    android:background="@drawable/home_light"
+                    android:backgroundTint="@color/brown" />
 
-            <ImageView
-                android:layout_width="24dp"
-                android:layout_height="21dp"
-                android:layout_gravity="center"
-                android:layout_marginHorizontal="26dp"
-                android:background="@drawable/filledheart"
-                android:backgroundTint="@color/brown"/>
+                <ImageView
+                    android:id="@+id/search_button"
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginHorizontal="26dp"
+                    android:background="@drawable/search"
+                    android:backgroundTint="@color/brown" />
 
-            <de.hdodenhof.circleimageview.CircleImageView
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:layout_marginHorizontal="26dp"
+                    android:background="@drawable/create"
+                    android:backgroundTint="@color/brown" />
 
-                android:layout_width="20dp"
-                android:layout_height="20dp"
-                android:layout_gravity="center"
-                android:layout_marginHorizontal="26dp"
-                android:background="@drawable/dp"
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="21dp"
+                    android:layout_gravity="center"
+                    android:layout_marginHorizontal="26dp"
+                    android:background="@drawable/filledheart"
+                    android:backgroundTint="@color/brown" />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center"
+                    android:layout_marginHorizontal="26dp"
+                    android:background="@drawable/dp"
 
 
-
-                />
-
+                    />
 
 
-        </LinearLayout>
+            </LinearLayout>
         </RelativeLayout>
     </LinearLayout>
 
