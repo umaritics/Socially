@@ -22,7 +22,6 @@ class Internshala_chat : AppCompatActivity() {
             insets
         }
         back_button.setOnClickListener {
-            startActivity(android.content.Intent(this,Search::class.java))
             finish()
         }
         call_button.setOnClickListener {

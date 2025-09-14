@@ -68,6 +68,7 @@
             android:layout_gravity="center"/>
 
         <LinearLayout
+            android:id="@+id/chat_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
@@ -479,6 +480,7 @@
                 android:layout_width="21dp"
                 android:layout_height="20dp"
                 android:background="@drawable/camera_filled"
+                android:backgroundTint="@color/brown"
                 android:layout_gravity=""/>
 
             <TextView

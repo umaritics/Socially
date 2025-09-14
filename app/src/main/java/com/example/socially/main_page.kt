@@ -16,6 +16,7 @@ class main_page : AppCompatActivity() {
         setContentView(R.layout.activity_main_page)
         var chat_button = findViewById<ImageView>(R.id.chats_button)
         var search_button = findViewById<ImageView>(R.id.search_button)
+        var heart_button = findViewById<ImageView>(R.id.following_button)
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
@@ -26,6 +27,9 @@ class main_page : AppCompatActivity() {
         }
         search_button.setOnClickListener {
             startActivity(android.content.Intent(this, Posts::class.java))
+        }
+        heart_button.setOnClickListener {
+            startActivity(android.content.Intent(this, Following::class.java))
         }
     }
 

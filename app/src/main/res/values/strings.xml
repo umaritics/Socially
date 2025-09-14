@@ -89,4 +89,27 @@
     <string name="started">started</string>
     <string name="craig_love_">craig_love.</string>
     <string name="s_post_">\'s post.</string>
+    <string name="follow_requests">Follow Requests</string>
+    <string name="new_text">New</string>
+    <string name="your">your</string>
+    <string name="today">Today</string>
+    <string name="jacob_w_atrate">\@jacob_w</string>
+    <string name="exactly">exactly..</string>
+    <string name="star_emoji">💫.</string>
+    <string name="_2d">2d</string>
+    <string name="reply">Reply</string>
+    <string name="you_small">you.</string>
+    <string name="message1">Message</string>
+    <string name="mis_potter">mis_potter</string>
+    <string name="_3d">3d</string>
+    <string name="m_humphrey">m_humphrey</string>
+    <string name="_1h">1h</string>
+    <string name="_26_others">26 others</string>
+    <string name="this_week">This Week</string>
+    <string name="mentioned">mentioned</string>
+    <string name="you_in_a">you in a</string>
+    <string name="following_small">following</string>
+    <string name="this_month">This Month</string>
+    <string name="_1_3">1/3</string>
+    <string name="_44_686_others">44,686 others</string>
 </resources>

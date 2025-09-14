@@ -24,12 +24,11 @@ class Posts : AppCompatActivity() {
             insets
         }
         home.setOnClickListener {
-            startActivity(android.content.Intent(this, main_page::class.java))
             finish()
         }
         shop.setOnClickListener {
             startActivity(android.content.Intent(this, Search::class.java))
-            finish()
+
         }
     }
 }

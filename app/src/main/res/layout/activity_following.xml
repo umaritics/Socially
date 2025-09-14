@@ -11,8 +11,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        tools:layout_editor_absoluteX="-16dp"
-        tools:layout_editor_absoluteY="0dp"
         android:background="@color/white">
         <RelativeLayout
             android:layout_height="match_parent"
@@ -53,6 +51,7 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/you_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="5"
@@ -101,7 +100,7 @@
                     <ImageView
                         android:layout_width="44dp"
                         android:layout_height="44dp"
-                        android:layout_marginRight="10dp"
+                        android:layout_marginEnd="10dp"
                         android:scaleType="centerCrop"
                         android:src="@drawable/karennne" />
 
@@ -171,7 +170,7 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:padding="16dp"
-                    android:gravity="center_vertical">
+                    android:gravity="center">
 
                     <ImageView
 
@@ -194,7 +193,8 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/and"
-                        android:textColor="@color/black"                        android:layout_toRightOf="@+id/kieroandjack"
+                        android:textColor="@color/black"
+                        android:layout_toRightOf="@+id/kieroandjack"
                         android:layout_marginStart="3dp"
                         />
                     <TextView
@@ -483,7 +483,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginStart="3dp"
                         android:layout_toEndOf="@id/maxjacobsontext"
-                        android:layout_toRightOf="@+id/kieroandjack"
+                        android:layout_toRightOf="@+id/maxjacobsontext"
                         android:text="@string/and"
                         android:textColor="@color/black" />
 
@@ -839,15 +839,16 @@
                 android:layout_gravity="center"
                 android:layout_marginHorizontal="26dp"
                 android:background="@drawable/home_light"
-                android:backgroundTint="@color/brown"/>
+                android:backgroundTint="@color/brown" />
 
             <ImageView
+                android:id="@+id/search_button"
                 android:layout_width="24dp"
-                android:layout_height="24dp"
+                android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginHorizontal="26dp"
                 android:background="@drawable/search"
-                android:backgroundTint="@color/brown"/>
+                android:backgroundTint="@color/brown" />
 
             <ImageView
                 android:layout_width="24dp"
