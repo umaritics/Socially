@@ -13,6 +13,7 @@ color pink
 color red
 color white
 drawable accounts_list
+drawable actions_bar
 drawable activity
 drawable addchat
 drawable andrew
@@ -30,6 +31,23 @@ drawable comment
 drawable craigdp
 drawable create
 drawable create_post
+drawable createimage
+drawable createpost1
+drawable createpost10
+drawable createpost11
+drawable createpost12
+drawable createpost13
+drawable createpost14
+drawable createpost15
+drawable createpost16
+drawable createpost2
+drawable createpost3
+drawable createpost4
+drawable createpost5
+drawable createpost6
+drawable createpost7
+drawable createpost8
+drawable createpost9
 drawable dp
 drawable filledheart
 drawable gallery
@@ -187,6 +205,7 @@ id craigtext2
 id craigtext3
 id create
 id create_button
+id createimagesection
 id description
 id description1
 id description2
@@ -228,6 +247,7 @@ id karennnetext2
 id kieroandjack
 id kieropic1
 id kierotext
+id library
 id likedtext
 id likedtext1
 id likedtext2
@@ -264,6 +284,7 @@ id nav_item4
 id nav_item5
 id nav_item6
 id newtext1
+id nexttext
 id nicetext
 id notes
 id other26text
@@ -272,11 +293,13 @@ id pfp2
 id pfp22
 id pfp23
 id pfp_section
+id photo
 id phototext
 id phototext1
 id phototext2
 id post1
 id post12
+id posts
 id posttext
 id posttext2
 id privateinfo
@@ -325,12 +348,14 @@ id text4
 id text5
 id text6
 id text8posts
+id text_overlay
 id thismonthtext1
 id thisweektext1
 id time
 id todaytext1
 id topNav
 id toptext
+id video
 id volume
 id you_button
 id yourtext1
@@ -341,6 +366,7 @@ id youtext3
 id youtext4
 id youtext5
 id zackjohntext
+layout activity_addcontent
 layout activity_call
 layout activity_chats
 layout activity_editprofile
@@ -384,6 +410,7 @@ string app_name
 string artist_song_title
 string auto
 string camera
+string cancel
 string clear
 string comment
 string craig_love
@@ -448,6 +475,7 @@ string mis_potter
 string mother
 string music
 string new_text
+string next
 string nice
 string now
 string or
@@ -455,6 +483,7 @@ string password
 string phone
 string photo
 string pixsellz
+string recents
 string reply
 string s_post
 string s_post_

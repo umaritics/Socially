@@ -128,4 +128,7 @@
     <string name="_1_202_555_0147">+1 202 555 0147</string>
     <string name="gender">Gender</string>
     <string name="male">Male</string>
+    <string name="next">Next</string>
+    <string name="recents">Recents</string>
+    <string name="cancel">Cancel</string>
 </resources>

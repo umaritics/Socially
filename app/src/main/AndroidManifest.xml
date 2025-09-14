@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Socially">
         <activity
+            android:name=".Addcontent"
+            android:exported="false" />
+        <activity
             android:name=".Editprofile"
             android:exported="false" />
         <activity

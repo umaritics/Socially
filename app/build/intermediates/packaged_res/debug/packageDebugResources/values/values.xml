@@ -37,6 +37,7 @@
     <string name="artist_song_title"><b>Artist</b> • Song Title</string>
     <string name="auto">Auto</string>
     <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
     <string name="clear">Clear</string>
     <string name="comment">comment:</string>
     <string name="craig_love">craig_love</string>
@@ -101,6 +102,7 @@
     <string name="mother">Mother ❤️</string>
     <string name="music">Music</string>
     <string name="new_text">New</string>
+    <string name="next">Next</string>
     <string name="nice">Nice!</string>
     <string name="now">• now</string>
     <string name="or">OR</string>
@@ -108,6 +110,7 @@
     <string name="phone">Phone</string>
     <string name="photo">photo.</string>
     <string name="pixsellz">\@pixsellz</string>
+    <string name="recents">Recents</string>
     <string name="reply">Reply</string>
     <string name="s_post">\'s post.</string>
     <string name="s_post_">\'s post.</string>
